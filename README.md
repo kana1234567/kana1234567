@@ -26,4 +26,5 @@ To become a skilled Data Analyst and build a career in the data analytics indust
 
 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn:
+- https://www.linkedin.com/in/kanhaiya-sharma-091aa226a?utm_source=share_via&utm_content=profile&utm_medium=member_android
