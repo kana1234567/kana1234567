@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Kanhaiya Sharma 👋
 
-<!--
-**kana1234567/kana1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently learning Data Analytics and developing my skills to solve real-world business problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills I'm Learning
+
+- SQL Server
+- Microsoft Power BI
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- DAX
+
+📚 Currently Working On
+
+- Improving SQL query writing
+- Learning Power BI dashboards
+- Practicing Excel data analysis
+- Building real-world data analytics projects
+
+🎯 My Goal
+
+To become a skilled Data Analyst and build a career in the data analytics industry.
+
+🤝 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL here
